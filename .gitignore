@@ -19,3 +19,8 @@ checkpoints/
 venv/
 .env/
 
+
+subtask1/
+subtask2/
+subtask3/
+submissions/
